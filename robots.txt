@@ -1,1 +1,1 @@
-Sitemap: https://jballesterosc.github.io/datacol/sitemap.xml
+Sitemap: https://datacol.mx/datacol/sitemap.xml
